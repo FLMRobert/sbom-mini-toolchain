@@ -1,0 +1,7 @@
+Supplier,Name,Version,LicenseExpressions,LicenseNames,Copyright,Cpe,Purl,Description
+GitHub,cyclonedx-cli,0.24.2,Apache-2.0,,,,pkg:github/cyclonedx/cyclonedx-cli@0.1.5,
+GitHub,SBOM-sg-SEPIA SPDX Schema,1.0.0,CC-BY-4.0,,¸2025 Robert Bosch GmbH. All rights reserved.,,pkg:github/openchain-project/sbom-sg-sepia,
+GitHub,SBOM-sg-SEPIA CycloneDX Schema,1.0.0,CC-BY-4.0,,¸2025 Robert Bosch GmbH. All rights reserved.,,pkg:github/openchain-project/sbom-sg-sepia,
+GitHub,cyclonedx Schema,1.4,Apache-2.0,,,,pkg:github/cyclonedx/specification@1.6.1,
+GitHub,SPDX Schema,2.3,Apache-2.0,,,,pkg:github/spdx/tools-java@2.0.0,
+GitHub,yajsv,1.4.1,MIT,,,,pkg:github/neilpa/yajsv@1.4.1

@@ -1,0 +1,1 @@
+.\tools\cyclonedx-win-x64.exe convert --input-file .\input\mini_toolchain_components.csv --output-file .\output\mini_toolchain_sbom.cdx.json --input-format csv --output-format json

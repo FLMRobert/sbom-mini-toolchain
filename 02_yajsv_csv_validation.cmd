@@ -1,0 +1,1 @@
+.\tools\yajsv.windows.amd64.exe -s .\schemas\bom-1.4.schema.json .\output\mini_toolchain_sbom.cdx.json
